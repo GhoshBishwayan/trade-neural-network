@@ -1,3 +1,4 @@
+import os
 from app.parsers.csv_parser import parse_csv
 from app.analytics.basic import *
 
